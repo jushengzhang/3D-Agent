@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "3D-Agent: Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation"
+message: "If you use this code, please cite the corresponding paper."
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Jusheng
+  - family-names: Fan
+    given-names: Yijia
+  - family-names: Wen
+    given-names: Zimo
+  - family-names: Wang
+    given-names: Jian
+  - family-names: Wang
+    given-names: Keze
+repository-code: "https://github.com/<your-org-or-username>/3D-Agent"
+abstract: "Official supplementary code release for 3D-Agent / Tri-MARF, a tri-modal multi-agent framework for scalable 3D object annotation."
