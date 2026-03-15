@@ -1,5 +1,7 @@
 # 3D-Agent
 
+## NeurIPS 2025 
+
 > Official supplementary code release for **3D-Agent: Tri-Modal Multi-Agent Collaboration for Scalable 3D Object Annotation** (NeurIPS 2025).
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.04404-b31b1b.svg)](https://arxiv.org/abs/2601.04404)
